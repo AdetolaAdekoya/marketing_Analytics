@@ -138,7 +138,7 @@ The cleaned and enriched datasets were loaded into Power BI, where an interactiv
 
 ### Page 1 — Overview
 
-![Overview Dashboard](<img width="1170" height="662" alt="overview" src="https://github.com/user-attachments/assets/941bf338-4301-4ab9-ba4c-8b9d558d93cc" />
+(<img width="1170" height="662" alt="overview" src="https://github.com/user-attachments/assets/941bf338-4301-4ab9-ba4c-8b9d558d93cc" />
 <img width="1170" height="662" alt="overview" src="https://github.com/user-attachments/assets/941bf338-4301-4ab9-ba4c-8b9d558d93cc" />
 )
 
@@ -171,7 +171,7 @@ This page breaks down the customer journey funnel and conversion performance by 
 
 ### Page 3 — Social Media Details
 
-![Social Media Details](<img width="1170" height="656" alt="social media" src="https://github.com/user-attachments/assets/1c985776-2c49-4869-8bbc-75615b9af812" />
+(<img width="1170" height="656" alt="social media" src="https://github.com/user-attachments/assets/1c985776-2c49-4869-8bbc-75615b9af812" />
 <img width="1170" height="656" alt="social media" src="https://github.com/user-attachments/assets/1c985776-2c49-4869-8bbc-75615b9af812" />
 )
 
@@ -187,7 +187,7 @@ This page analyses engagement distribution across content types — Blog, Social
 
 ### Page 4 — Customer Review Details
 
-![Customer Review Details](<img width="1180" height="658" alt="customer reviews" src="https://github.com/user-attachments/assets/06510023-4540-43f3-a471-365b360f418f" />
+(<img width="1180" height="658" alt="customer reviews" src="https://github.com/user-attachments/assets/06510023-4540-43f3-a471-365b360f418f" />
 <img width="1180" height="658" alt="customer reviews" src="https://github.com/user-attachments/assets/06510023-4540-43f3-a471-365b360f418f" />
 )
 
