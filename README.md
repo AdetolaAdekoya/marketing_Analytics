@@ -156,7 +156,6 @@ The Overview page provides a high-level summary across all three performance dim
 ### Page 2 — Conversion Details
 
 ![Conversion Details](<img width="1177" height="647" alt="conversion" src="https://github.com/user-attachments/assets/1b2e746a-f3b4-4d2a-b99d-17bc238f8972" />
-<img width="1177" height="647" alt="conversion" src="https://github.com/user-attachments/assets/1b2e746a-f3b4-4d2a-b99d-17bc238f8972" />
 )
 
 This page breaks down the customer journey funnel and conversion performance by product and month.
